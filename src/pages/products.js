@@ -17,4 +17,5 @@ const loading = getElement(".page-loading");
 display(store, getElement(".products-container"));
 setupSearch(store);
 setupCategories(store);
+setupPrice(store);
 loading.style.display = "none";
