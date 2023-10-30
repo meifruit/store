@@ -5,7 +5,7 @@ import "../cart/setupCart.js";
 
 //  filter imports
 import setupSearch from "../filters/search.js";
-import setupCompanies from "../filters/companies.js";
+import setupCategories from "../filters/categories.js";
 import setupPrice from "../filters/price.js";
 
 // specific imports
@@ -16,4 +16,5 @@ import { getElement } from "../utils.js";
 const loading = getElement(".page-loading");
 display(store, getElement(".products-container"));
 setupSearch(store);
+setupCategories(store);
 loading.style.display = "none";
