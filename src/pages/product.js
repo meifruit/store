@@ -4,7 +4,8 @@ import "../cart/toggleCart.js";
 import "../cart/setupCart.js";
 // specific
 import { addToCart } from "../cart/setupCart.js";
-import { singleProductUrl, getElement, formatPrice } from "../utils.js";
+
+import { getElement, formatPrice, singleProductUrl } from "../utils.js";
 
 // selections
 const loading = getElement(".page-loading");
@@ -26,6 +27,7 @@ window.addEventListener("DOMContentLoaded", async function () {
   const urlID = window.location.search;
   try {
     const response = await this.fetch(`${singleProductUrl}${urlID}`);
+
     if (response.status >= 200 && response.status <= 299) {
       const product = await response.json();
       // grab data

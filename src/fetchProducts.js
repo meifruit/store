@@ -1,4 +1,4 @@
-import { allProductsUrl } from "./utils.js";
+import { allProductsUrl, singleProductUrl } from "./utils.js";
 
 const meiProducts = [
   {
