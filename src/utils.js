@@ -3,6 +3,7 @@ const allProductsUrl = "https://course-api.com/javascript-store-products";
 // 'https://course-api.com/javascript-store-single-product?id=rec43w3ipXvP28vog'
 const singleProductUrl =
   "https://course-api.com/javascript-store-single-product";
+// "https://github.com/meifruit/product/blob/master/";
 
 const getElement = (selection) => {
   const element = document.querySelector(selection);

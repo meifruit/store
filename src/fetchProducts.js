@@ -8,7 +8,7 @@ const meiProducts = [
       colors: ["#f15025", "#222"],
       featured: true,
       price: 999,
-      name: "high-back bench",
+      name: "facial hydrating cream",
       image: [
         {
           id: "attcvDDMikF6G2iNi",
@@ -45,7 +45,7 @@ const meiProducts = [
       category: "lotion",
       colors: ["#f15025", "#222"],
       price: 7999,
-      name: "albany table mei",
+      name: "facial treatment",
       image: [
         {
           id: "attP2cUyxU35M1zbw",
@@ -82,29 +82,29 @@ const meiProducts = [
       category: "UVcare",
       colors: ["#222", "#0000ff", "#f15025"],
       price: 2599,
-      name: "accent chair",
+      name: "botanical uvcare",
       image: [
         {
           id: "attIieysyB9zQmQo9",
           width: 1000,
           height: 667,
-          url: "https://course-api.com/images/store/product-3.jpeg",
+          url: "https://images.pexels.com/photos/16378498/pexels-photo-16378498.jpeg?auto=compress&cs=tinysrgb&w=1600",
           filename: "product-4.jpeg",
           size: 49641,
           type: "image/jpeg",
           thumbnails: {
             small: {
-              url: "https://course-api.com/images/store/product-3.jpeg",
+              url: "https://images.pexels.com/photos/16378498/pexels-photo-16378498.jpeg?auto=compress&cs=tinysrgb&w=1600",
               width: 54,
               height: 36,
             },
             large: {
-              url: "https://course-api.com/images/store/product-3.jpeg",
+              url: "https://images.pexels.com/photos/16378498/pexels-photo-16378498.jpeg?auto=compress&cs=tinysrgb&w=1600",
               width: 768,
               height: 512,
             },
             full: {
-              url: "https://course-api.com/images/store/product-3.jpeg",
+              url: "https://images.pexels.com/photos/16378498/pexels-photo-16378498.jpeg?auto=compress&cs=tinysrgb&w=1600",
               width: 3000,
               height: 3000,
             },
@@ -119,29 +119,29 @@ const meiProducts = [
       category: "UVcare",
       colors: ["#ff0000", "#0000ff"],
       price: 4599,
-      name: "wooden table",
+      name: "botanical uvcare",
       image: [
         {
           id: "attXaEED3KJcY2cjY",
           width: 1280,
           height: 1891,
-          url: "https://course-api.com/images/store/product-4.jpeg",
+          url: "https://images.pexels.com/photos/1029896/pexels-photo-1029896.jpeg?auto=compress&cs=tinysrgb&w=1600",
           filename: "pexels-dominika-roseclay-1139785.jpg",
           size: 203105,
           type: "image/jpeg",
           thumbnails: {
             small: {
-              url: "https://course-api.com/images/store/product-4.jpeg",
+              url: "https://images.pexels.com/photos/1029896/pexels-photo-1029896.jpeg?auto=compress&cs=tinysrgb&w=1600",
               width: 24,
               height: 36,
             },
             large: {
-              url: "https://course-api.com/images/store/product-4.jpeg",
+              url: "https://images.pexels.com/photos/1029896/pexels-photo-1029896.jpeg?auto=compress&cs=tinysrgb&w=1600",
               width: 512,
               height: 756,
             },
             full: {
-              url: "https://course-api.com/images/store/product-4.jpeg",
+              url: "https://images.pexels.com/photos/1029896/pexels-photo-1029896.jpeg?auto=compress&cs=tinysrgb&w=1600",
               width: 3000,
               height: 3000,
             },
@@ -156,29 +156,29 @@ const meiProducts = [
       category: "UVcare",
       colors: ["#ff0000", "#f15025"],
       price: 699,
-      name: "dining table",
+      name: "aroma uvcare",
       image: [
         {
           id: "attxkKEEgmBnutpwI",
           width: 1280,
           height: 1858,
-          url: "https://course-api.com/images/store/product-5.jpeg",
+          url: "https://images.pexels.com/photos/4465121/pexels-photo-4465121.jpeg?auto=compress&cs=tinysrgb&w=1600",
           filename: "product-8.jpg",
           size: 281908,
           type: "image/jpeg",
           thumbnails: {
             small: {
-              url: "https://course-api.com/images/store/product-5.jpeg",
+              url: "https://images.pexels.com/photos/4465121/pexels-photo-4465121.jpeg?auto=compress&cs=tinysrgb&w=1600",
               width: 25,
               height: 36,
             },
             large: {
-              url: "https://course-api.com/images/store/product-5.jpeg",
+              url: "https://images.pexels.com/photos/4465121/pexels-photo-4465121.jpeg?auto=compress&cs=tinysrgb&w=1600",
               width: 512,
               height: 743,
             },
             full: {
-              url: "https://course-api.com/images/store/product-5.jpeg",
+              url: "https://images.pexels.com/photos/4465121/pexels-photo-4465121.jpeg?auto=compress&cs=tinysrgb&w=1600",
               width: 3000,
               height: 3000,
             },
@@ -193,29 +193,29 @@ const meiProducts = [
       category: "lip&eyecare",
       colors: ["#0000ff"],
       price: 6999,
-      name: "sofa set",
+      name: " citrus lip treatment",
       image: [
         {
           id: "att5iyl4TJvd3oepN",
           width: 1000,
           height: 625,
-          url: "https://course-api.com/images/store/product-6.jpeg",
+          url: "https://images.pexels.com/photos/4041391/pexels-photo-4041391.jpeg?auto=compress&cs=tinysrgb&w=1600",
           filename: "product-1.jpeg",
           size: 56151,
           type: "image/jpeg",
           thumbnails: {
             small: {
-              url: "https://course-api.com/images/store/product-6.jpeg",
+              url: "https://images.pexels.com/photos/4041391/pexels-photo-4041391.jpeg?auto=compress&cs=tinysrgb&w=1600",
               width: 58,
               height: 36,
             },
             large: {
-              url: "https://course-api.com/images/store/product-6.jpeg",
+              url: "https://images.pexels.com/photos/4041391/pexels-photo-4041391.jpeg?auto=compress&cs=tinysrgb&w=1600",
               width: 819,
               height: 512,
             },
             full: {
-              url: "https://course-api.com/images/store/product-6.jpeg",
+              url: "https://images.pexels.com/photos/4041391/pexels-photo-4041391.jpeg?auto=compress&cs=tinysrgb&w=1600",
               width: 3000,
               height: 3000,
             },
@@ -230,29 +230,29 @@ const meiProducts = [
       category: "lotion",
       colors: ["#00ff00", "#f15025", "#ff0000"],
       price: 899,
-      name: "modern bookshelf",
+      name: "facial hydrator",
       image: [
         {
           id: "attDj1C6GxJMsJ1he",
           width: 1280,
           height: 720,
-          url: "https://course-api.com/images/store/product-7.jpeg",
+          url: "https://images.pexels.com/photos/6621472/pexels-photo-6621472.jpeg?auto=compress&cs=tinysrgb&w=1600",
           filename: "product-7.jpg",
           size: 162415,
           type: "image/jpeg",
           thumbnails: {
             small: {
-              url: "https://course-api.com/images/store/product-7.jpeg",
+              url: "https://images.pexels.com/photos/6621472/pexels-photo-6621472.jpeg?auto=compress&cs=tinysrgb&w=1600",
               width: 64,
               height: 36,
             },
             large: {
-              url: "https://course-api.com/images/store/product-7.jpeg",
+              url: "https://images.pexels.com/photos/6621472/pexels-photo-6621472.jpeg?auto=compress&cs=tinysrgb&w=1600",
               width: 910,
               height: 512,
             },
             full: {
-              url: "https://course-api.com/images/store/product-7.jpeg",
+              url: "https://images.pexels.com/photos/6621472/pexels-photo-6621472.jpeg?auto=compress&cs=tinysrgb&w=1600",
               width: 3000,
               height: 3000,
             },
@@ -267,29 +267,29 @@ const meiProducts = [
       category: "lip&eyecare",
       colors: ["#f15025"],
       price: 2199,
-      name: "emperor bed",
+      name: "woody lip treatment",
       image: [
         {
           id: "attiwrd7gSI1oGxRK",
           width: 1280,
           height: 720,
-          url: "https://course-api.com/images/store/product-8.jpeg",
+          url: "https://images.pexels.com/photos/3751227/pexels-photo-3751227.jpeg?auto=compress&cs=tinysrgb&w=1600",
           filename: "product-6.jpg",
           size: 178908,
           type: "image/jpeg",
           thumbnails: {
             small: {
-              url: "https://course-api.com/images/store/product-8.jpeg",
+              url: "https://images.pexels.com/photos/3751227/pexels-photo-3751227.jpeg?auto=compress&cs=tinysrgb&w=1600",
               width: 64,
               height: 36,
             },
             large: {
-              url: "https://course-api.com/images/store/product-8.jpeg",
+              url: "https://images.pexels.com/photos/3751227/pexels-photo-3751227.jpeg?auto=compress&cs=tinysrgb&w=1600",
               width: 910,
               height: 512,
             },
             full: {
-              url: "https://course-api.com/images/store/product-8.jpeg",
+              url: "https://images.pexels.com/photos/3751227/pexels-photo-3751227.jpeg?auto=compress&cs=tinysrgb&w=1600",
               width: 3000,
               height: 3000,
             },
@@ -305,29 +305,29 @@ const meiProducts = [
       colors: ["#00ff00", "#0000ff"],
       featured: true,
       price: 3995,
-      name: "utopia sofa",
+      name: "facial treatment",
       image: [
         {
           id: "attqutUt355traBeS",
           width: 1280,
           height: 846,
-          url: "https://course-api.com/images/store/product-9.jpeg",
+          url: "https://images.pexels.com/photos/3321416/pexels-photo-3321416.jpeg?auto=compress&cs=tinysrgb&w=1600",
           filename: "product-3.jpg",
           size: 196312,
           type: "image/jpeg",
           thumbnails: {
             small: {
-              url: "https://course-api.com/images/store/product-9.jpeg",
+              url: "https://images.pexels.com/photos/3321416/pexels-photo-3321416.jpeg?auto=compress&cs=tinysrgb&w=1600",
               width: 54,
               height: 36,
             },
             large: {
-              url: "https://course-api.com/images/store/product-9.jpeg",
+              url: "https://images.pexels.com/photos/3321416/pexels-photo-3321416.jpeg?auto=compress&cs=tinysrgb&w=1600",
               width: 775,
               height: 512,
             },
             full: {
-              url: "https://course-api.com/images/store/product-9.jpeg",
+              url: "https://images.pexels.com/photos/3321416/pexels-photo-3321416.jpeg?auto=compress&cs=tinysrgb&w=1600",
               width: 3000,
               height: 3000,
             },
@@ -343,29 +343,29 @@ const meiProducts = [
       colors: ["#ff0000", "#00ff00"],
       featured: true,
       price: 2998,
-      name: "entertainment center",
+      name: "cedar treatment",
       image: [
         {
           id: "atttOzyYI8P1XfJu8",
           width: 1280,
           height: 924,
-          url: "https://course-api.com/images/store/product-10.jpeg",
+          url: "https://images.pexels.com/photos/6621357/pexels-photo-6621357.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
           filename: "product-2.jpg",
           size: 195175,
           type: "image/jpeg",
           thumbnails: {
             small: {
-              url: "https://course-api.com/images/store/product-10.jpeg",
+              url: "https://images.pexels.com/photos/6621357/pexels-photo-6621357.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
               width: 50,
               height: 36,
             },
             large: {
-              url: "https://course-api.com/images/store/product-10.jpeg",
+              url: "https://images.pexels.com/photos/6621357/pexels-photo-6621357.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
               width: 709,
               height: 512,
             },
             full: {
-              url: "https://course-api.com/images/store/product-10.jpeg",
+              url: "https://images.pexels.com/photos/6621357/pexels-photo-6621357.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
               width: 3000,
               height: 3000,
             },
@@ -380,29 +380,29 @@ const meiProducts = [
       category: "cream",
       colors: ["#00ff00", "#ff0000"],
       price: 1099,
-      name: "albany sectional",
+      name: "moisture cream",
       image: [
         {
           id: "attjWNxk7KKzcLPDx",
           width: 1000,
           height: 652,
-          url: "https://images.pexels.com/photos/5797999/pexels-photo-5797999.jpeg?auto=compress&cs=tinysrgb&w=800",
+          url: "https://images.pexels.com/photos/4046316/pexels-photo-4046316.jpeg?auto=compress&cs=tinysrgb&w=1600",
           filename: "product-1.jpeg",
           size: 61946,
           type: "image/jpeg",
           thumbnails: {
             small: {
-              url: "https://images.pexels.com/photos/5797999/pexels-photo-5797999.jpeg?auto=compress&cs=tinysrgb&w=800",
+              url: "https://images.pexels.com/photos/4046316/pexels-photo-4046316.jpeg?auto=compress&cs=tinysrgb&w=1600",
               width: 55,
               height: 36,
             },
             large: {
-              url: "https://images.pexels.com/photos/5797999/pexels-photo-5797999.jpeg?auto=compress&cs=tinysrgb&w=800",
+              url: "https://images.pexels.com/photos/4046316/pexels-photo-4046316.jpeg?auto=compress&cs=tinysrgb&w=1600",
               width: 785,
               height: 512,
             },
             full: {
-              url: "https://images.pexels.com/photos/5797999/pexels-photo-5797999.jpeg?auto=compress&cs=tinysrgb&w=800",
+              url: "https://images.pexels.com/photos/4046316/pexels-photo-4046316.jpeg?auto=compress&cs=tinysrgb&w=1600",
               width: 3000,
               height: 3000,
             },
@@ -417,29 +417,29 @@ const meiProducts = [
       category: "lip&eyecare",
       colors: ["#222"],
       price: 999,
-      name: "leather sofa",
+      name: "peel oil treatment",
       image: [
         {
           id: "attnZHyyOUTBzJ1ZD",
           width: 1280,
           height: 960,
-          url: "https://course-api.com/images/store/product-12.jpeg",
+          url: "https://images.pexels.com/photos/7319126/pexels-photo-7319126.jpeg?auto=compress&cs=tinysrgb&w=1600",
           filename: "product-5.jpg",
           size: 189559,
           type: "image/jpeg",
           thumbnails: {
             small: {
-              url: "https://course-api.com/images/store/product-12.jpeg",
+              url: "https://images.pexels.com/photos/7319126/pexels-photo-7319126.jpeg?auto=compress&cs=tinysrgb&w=1600",
               width: 48,
               height: 36,
             },
             large: {
-              url: "https://course-api.com/images/store/product-12.jpeg",
+              url: "https://images.pexels.com/photos/7319126/pexels-photo-7319126.jpeg?auto=compress&cs=tinysrgb&w=1600",
               width: 683,
               height: 512,
             },
             full: {
-              url: "https://course-api.com/images/store/product-12.jpeg",
+              url: "https://images.pexels.com/photos/7319126/pexels-photo-7319126.jpeg?auto=compress&cs=tinysrgb&w=1600",
               width: 3000,
               height: 3000,
             },
