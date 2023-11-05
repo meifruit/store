@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- font-awesome -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"
+    />
+
+    <!-- styles css -->
+    <link rel="stylesheet" href="./css/styles.css" />
+    <link rel="stylesheet" href="./css/checkout.css" />
+    <title>checkout</title>
+  </head>
+  <body>
+    <!-- navbar -->
+    <nav class="navbar">
+      <div class="nav-center">
+        <!-- links -->
+        <div>
+          <button class="toggle-nav">
+            <i class="fas fa-bars"></i>
+          </button>
+          <ul class="nav-links">
+            <li>
+              <a href="index.html" class="nav-link"> home </a>
+            </li>
+            <li>
+              <a href="products.html" class="nav-link"> products </a>
+            </li>
+            <li>
+              <a href="about.html" class="nav-link"> about </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <!-- sidebar -->
+    <div class="sidebar-overlay">
+      <aside class="sidebar">
+        <!-- close -->
+        <button class="sidebar-close">
+          <i class="fas fa-times"></i>
+        </button>
+        <!-- links -->
+        <ul class="sidebar-links">
+          <li>
+            <a href="index.html" class="sidebar-link">
+              <!-- <i class="fas fa-home fa-fw"></i> -->
+              Home
+            </a>
+          </li>
+          <li>
+            <a href="products.html" class="sidebar-link">
+              <!-- <i class="fas fa-couch fa-fw"></i> -->
+              Products
+            </a>
+          </li>
+          <li>
+            <a href="about.html" class="sidebar-link">
+              <!-- <i class="fas fa-book fa-fw"></i> -->
+              About
+            </a>
+          </li>
+        </ul>
+      </aside>
+    </div>
+
+    <!-- <div class="error">
+      <p>Some error occured</p>
+    </div> -->
+
+    <div class="form">
+      <h1 class="section-heading">checkout</h1>
+      <p class="text-slanted">Delivery Address</p>
+
+      <input type="text" id="address" placeholder="address" />
+      <input type="text" id="street" placeholder="street" />
+      <div class="three-input-container">
+        <input type="text" id="city" placeholder="city" />
+        <input type="text" id="state" placeholder="state" />
+        <input type="text" id="pincode" placeholder="pincode" />
+      </div>
+      <input type="text" id="landmark" placeholder="landmark" />
+    </div>
+    <div class="cart-section">
+      <div class="product-list">
+        <h3 class="text-slanted">your cart</h3>
+        <div class="cart-container">
+          <!-- <img src="./images/main.jpg" class="empty-img" alt="name" /> -->
+          <div class="sm-product">
+            <img src="./images/main.jpg" class="sm-product-img" alt="name" />
+            <div class="sm-text">
+              <p class="sm-product-name">high-back bench</p>
+              <p class="sm-des">short des</p>
+            </div>
+            <div class="item-counter">
+              <button class="counter-btn decrement">-</button>
+              <p class="item-count">1</p>
+              <button class="counter-btn increment">+</button>
+            </div>
+            <p class="sm-price">20.00</p>
+            <button class="cart-item-remove-btn">delete</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="checkout-section">
+        <div class="checkout-box">
+          <p class="bill">total : $20.00</p>
+          <button class="place-order-btn">proceed to purchase</button>
+        </div>
+      </div>
+    </div>
+
+    <script type="module" src="./src/pages/products.js"></script>
+  </body>
+</html>

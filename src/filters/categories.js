@@ -23,7 +23,7 @@ const setupCategories = (store) => {
           (product) => product.category === e.target.textContent
         );
       }
-      display(newStore, getElement(".products-container"));
+      display(newStore, getElement(".products-container"), true);
     }
   });
 };

@@ -38,7 +38,7 @@ Variables
   --clr-red-light: hsl(360, 71%, 66%);
   --clr-green-dark: hsl(125, 67%, 44%);
   --clr-green-light: hsl(125, 71%, 66%);
-  --clr-black: #222;
+  --clr-black: #252525;
 
   --transition: all 0.3s linear;
   --spacing: 0.1rem;
@@ -223,7 +223,7 @@ Navbar
   background: transparent;
   border-color: transparent;
   font-size: 1.6rem;
-  color: var(--clr-white);
+  color: var(--clr-black);
   cursor: pointer;
 }
 .cart-item-count {
@@ -259,7 +259,7 @@ Navbar
     text-transform: capitalize;
   }
   .nav-link {
-    color: var(--clr-white);
+    color: var(--clr-black);
     margin-right: 3rem;
     letter-spacing: var(--spacing);
     transition: var(--transition);
@@ -293,10 +293,10 @@ Hero
   min-height: 100vh;
   margin-top: -6rem;
   background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url(./images/main.jpg) center/cover;
+    url(../images/main.jpg) center/cover;
   display: grid;
   place-items: center;
-  color: var(--clr-white);
+  color: var(--clr-black);
 }
 .hero-container {
   width: 90vw;
@@ -310,9 +310,9 @@ Hero
   font-size: 1.5rem;
 }
 .hero-btn {
-  color: var(--clr-white);
+  color: var(--clr-black);
   background: transparent;
-  border: 1px solid var(--clr-white);
+  border: 1px solid var(--clr-black);
   padding: 0.5rem 0.75rem;
   display: inline-block;
   margin-top: 0.75rem;
@@ -469,6 +469,7 @@ Cart
   width: 75%;
   margin: 0 auto;
   margin-bottom: 3rem;
+  text-align: center;
 }
 /* cart item */
 .cart-item {
